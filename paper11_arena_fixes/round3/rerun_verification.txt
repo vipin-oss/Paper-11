@@ -1,0 +1,14 @@
+Corrected generator: two independent executions completed successfully.
+Clean rerun read no existing CSVs or persisted Jacobians.
+Verification: byte-for-byte equality and SHA-256 for all seven generator CSVs.
+
+MATCH all_crossings.csv SHA256=061cb2a097a41538d3c5493e3b3e7e2d1444bfe321d66787481e2daca7f974d4
+MATCH crlb_B_scan.csv SHA256=9cd5f93233246805424240867611ba6532ed9347b8626457ca3fbd28f3ab727b
+MATCH crlb_corridor_direct.csv SHA256=58cabd1a705c547a83ca3a713cdc5cd9438f0d3b16f37a5e6b7bca729c2dbac6
+MATCH fd_crosscheck.csv SHA256=cda1795b678de8919cdd42ff4cdfdae026cdee4ed6b7d0f1193a5e013dc9bc04
+MATCH fig10a_direct.csv SHA256=1ab64622de8094158a2c28d41096f01c7b0f21ed3ca0b2a24a9de8300d0a1aeb
+MATCH fim_evaluations.csv SHA256=4e5eeb94f93f6a4a11962b8bef27b5532189a1d49a409ec90caafbdb51305471
+MATCH table5_comparison.csv SHA256=c3bb61703053eec69a8735aff286706c1a7ceeb3f55d0f657a296601b7ba5b71
+
+PASS: main.tex byte-identical to pre-round3 commit c4ee6cea.
+Program SHA256=c5997478941ebb230632534eaa9bbbed4ac6b281051c7da84160947517513c0b

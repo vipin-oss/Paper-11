@@ -1,0 +1,14 @@
+{
+  "table5_rows": 15,
+  "threshold_entries": 60,
+  "scan_rows": 660,
+  "attained": 50,
+  "not_attained": 10,
+  "bracketed_crossings": 50,
+  "max_root_relative_error_residual": 8.003030918524168e-09,
+  "max_FD_relative_SE_difference": 3.4964206363985286e-11,
+  "max_FD_relative_sigma_min_difference": 3.738156094972355e-11,
+  "max_analytic_vs_mpdiff_relative_J_difference": 7.721741804657014e-13,
+  "main_tex_sha256": "34f37143d9a1a5bd70d36b2573ac8aef67770b8d5b070bba6684f45a9ce93a56",
+  "exact_resonance_null_relative_error": 0.0
+}
