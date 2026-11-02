@@ -1,0 +1,29 @@
+Nt=10 written /home/user/work/round2_data/fig6_true_norms_trace_Nt10.csv
+   x  norm_J_tq  norm_J_k2  norm_J_Bi   trF_cum  Nt
+0.00    17.8883    17.8883     4.0536  656.4171  10
+0.25    14.3826    14.3826     3.4921 1082.3285  10
+0.50    15.4532    15.4532     3.2776 1570.6715  10
+0.75     5.1031     5.1031     3.3443 1633.9384  10
+1.00     3.6927     3.6927     3.6791 1674.7456  10
+  sanity(i) max |norm_J_tq - norm_J_k2| = 0.000e+00
+Nt=50 written /home/user/work/round2_data/fig6_true_norms_trace_Nt50.csv
+   x  norm_J_tq  norm_J_k2  norm_J_Bi   trF_cum  Nt
+0.00    31.8774    31.8774     8.9522 2112.4822  50
+0.25    25.8608    25.8608     7.7527 3510.1513  50
+0.50    18.5633    18.5633     7.2445 4251.8263  50
+0.75    13.4085    13.4085     7.3880 4665.9852  50
+1.00    15.4434    15.4434     8.1539 5209.4656  50
+  sanity(i) max |norm_J_tq - norm_J_k2| = 0.000e+00
+Fig6(a) R = F_jk/sqrt(F_jj F_kk):
+ [[ 1.       -1.        0.069967]
+ [-1.        1.       -0.069967]
+ [ 0.069967 -0.069967  1.      ]]
+  rho(tau_q,Bi) = 0.0700, rho(kappa2,Bi) = -0.0700, rho(tau_q,kappa2) = -1.000000000000
+  [Nt=10] rho(tau_q,Bi) = 0.0798   (hard-coded value in plot_figures.py is 0.0382)
+  sanity(ii) x=0.0: analytic [31.8774 31.8774  8.9522] vs FD [31.8774 31.8774  8.9522]  max rel diff = 2.04e-08
+  sanity(ii) x=1.0: analytic [15.4434 15.4434  8.1539] vs FD [15.4434 15.4434  8.1539]  max rel diff = 5.26e-10
+  sanity(iii) tr(F): Nt=10 grid = 1674.7, Nt=50 grid = 5209.5, 50-grid subsampled to 10 = 666.7; ratio 50/10 = 3.11
+  -> ratio < 5 because J is concentrated at early times; the 10-pt grid (step 0.105) samples fewer early-time large-|J| points than the 50-pt grid (step 0.0196).
+  shipped-vs-new max abs diff Nt=10: 2.274e-13
+  shipped-vs-new max abs diff Nt=50: 1.364e-12
+EXIT=0

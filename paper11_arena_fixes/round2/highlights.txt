@@ -1,0 +1,5 @@
+Analytic mpmath Jacobian (dps=40) reproduces shipped Fig. 6 CSVs to 1e-12.
+norm_J_tau_q(x=0) = 17.8883 at Nt=10; trace(F) rises 656.4 to 1674.7 over x=0..1.
+At Nt=50, trace(F) rises 2112.5 to 5209.5; Nt50/Nt10 trace ratio is 3.11.
+tau_q and kappa2 sensitivity columns are exactly collinear (R = -1) at B = 1.
+FIM correlation rho(tau_q, Bi) computes to 0.0700 (Nt=50), not the plotted 0.0382.
