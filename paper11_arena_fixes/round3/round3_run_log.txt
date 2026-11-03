@@ -1,0 +1,75 @@
+[scan] Rear-face only (x=1.0) Nt=10 B<1: 22 points
+[root] Rear-face only (x=1.0) Nt=10 0.1% param B<1: 0.210862996 (attained; crossings=1)
+[root] Rear-face only (x=1.0) Nt=10 0.5% param B<1: 0.553341792 (attained; crossings=1)
+[root] Rear-face only (x=1.0) Nt=10 1.0% param B<1: 0.685288614 (attained; crossings=1)
+[root] Rear-face only (x=1.0) Nt=10 0.1% singular B<1: 0.290624042 (attained; crossings=1)
+[root] Rear-face only (x=1.0) Nt=10 0.5% singular B<1: 0.754139163 (attained; crossings=1)
+[root] Rear-face only (x=1.0) Nt=10 1.0% singular B<1: nan (not attained in scan; crossings=0)
+[scan] Rear-face only (x=1.0) Nt=10 B>1: 22 points
+[root] Rear-face only (x=1.0) Nt=10 0.1% param B>1: 0.248630689 (attained; crossings=1)
+[root] Rear-face only (x=1.0) Nt=10 0.5% param B>1: nan (not attained in scan; crossings=0)
+[root] Rear-face only (x=1.0) Nt=10 1.0% param B>1: nan (not attained in scan; crossings=0)
+[root] Rear-face only (x=1.0) Nt=10 0.1% singular B>1: 0.349012394 (attained; crossings=1)
+[root] Rear-face only (x=1.0) Nt=10 0.5% singular B>1: nan (not attained in scan; crossings=0)
+[root] Rear-face only (x=1.0) Nt=10 1.0% singular B>1: nan (not attained in scan; crossings=0)
+[scan] Rear-face only (x=1.0) Nt=50 B<1: 22 points
+[root] Rear-face only (x=1.0) Nt=50 0.1% param B<1: 0.086306087 (attained; crossings=1)
+[root] Rear-face only (x=1.0) Nt=50 0.5% param B<1: 0.336179604 (attained; crossings=1)
+[root] Rear-face only (x=1.0) Nt=50 1.0% param B<1: 0.519014371 (attained; crossings=1)
+[root] Rear-face only (x=1.0) Nt=50 0.1% singular B<1: 0.117759223 (attained; crossings=1)
+[root] Rear-face only (x=1.0) Nt=50 0.5% singular B<1: 0.414219880 (attained; crossings=1)
+[root] Rear-face only (x=1.0) Nt=50 1.0% singular B<1: 0.596196853 (attained; crossings=1)
+[scan] Rear-face only (x=1.0) Nt=100 B<1: 22 points
+[root] Rear-face only (x=1.0) Nt=100 0.1% param B<1: 0.061959305 (attained; crossings=1)
+[scan] Rear-face only (x=1.0) Nt=50 B>1: 22 points
+[root] Rear-face only (x=1.0) Nt=50 0.1% param B>1: 0.099147174 (attained; crossings=1)
+[root] Rear-face only (x=1.0) Nt=100 0.5% param B<1: 0.258241701 (attained; crossings=1)
+[root] Rear-face only (x=1.0) Nt=50 0.5% param B>1: 0.661775953 (attained; crossings=1)
+[root] Rear-face only (x=1.0) Nt=50 1.0% param B>1: nan (not attained in scan; crossings=0)
+[root] Rear-face only (x=1.0) Nt=50 0.1% singular B>1: 0.146115323 (attained; crossings=1)
+[root] Rear-face only (x=1.0) Nt=50 0.5% singular B>1: nan (not attained in scan; crossings=0)
+[root] Rear-face only (x=1.0) Nt=50 1.0% singular B>1: nan (not attained in scan; crossings=0)
+[root] Rear-face only (x=1.0) Nt=100 1.0% param B<1: 0.422906868 (attained; crossings=1)
+[root] Rear-face only (x=1.0) Nt=100 0.1% singular B<1: 0.085394110 (attained; crossings=1)
+[root] Rear-face only (x=1.0) Nt=100 0.5% singular B<1: 0.328299674 (attained; crossings=1)
+[root] Rear-face only (x=1.0) Nt=100 1.0% singular B<1: 0.503721338 (attained; crossings=1)
+[scan] Front + Rear (x=0, 1) Nt=50 B<1: 22 points
+[root] Front + Rear (x=0, 1) Nt=50 0.1% param B<1: 0.015044296 (attained; crossings=1)
+[root] Front + Rear (x=0, 1) Nt=50 0.5% param B<1: 0.074937405 (attained; crossings=1)
+[root] Front + Rear (x=0, 1) Nt=50 1.0% param B<1: 0.149928343 (attained; crossings=1)
+[scan] Rear-face only (x=1.0) Nt=100 B>1: 22 points
+[root] Front + Rear (x=0, 1) Nt=50 0.1% singular B<1: 0.021089786 (attained; crossings=1)
+[root] Rear-face only (x=1.0) Nt=100 0.1% param B>1: 0.068329887 (attained; crossings=1)
+[root] Front + Rear (x=0, 1) Nt=50 0.5% singular B<1: 0.101694717 (attained; crossings=1)
+[root] Rear-face only (x=1.0) Nt=100 0.5% param B>1: 0.419470876 (attained; crossings=1)
+[root] Rear-face only (x=1.0) Nt=100 1.0% param B>1: nan (not attained in scan; crossings=0)
+[root] Front + Rear (x=0, 1) Nt=50 1.0% singular B<1: 0.196508195 (attained; crossings=1)
+[root] Rear-face only (x=1.0) Nt=100 0.1% singular B>1: 0.099420390 (attained; crossings=1)
+[root] Rear-face only (x=1.0) Nt=100 0.5% singular B>1: 0.709417949 (attained; crossings=1)
+[root] Rear-face only (x=1.0) Nt=100 1.0% singular B>1: nan (not attained in scan; crossings=0)
+[scan] Front + Rear (x=0, 1) Nt=50 B>1: 22 points
+[root] Front + Rear (x=0, 1) Nt=50 0.1% param B>1: 0.015095113 (attained; crossings=1)
+[root] Front + Rear (x=0, 1) Nt=50 0.5% param B>1: 0.076237182 (attained; crossings=1)
+[root] Front + Rear (x=0, 1) Nt=50 1.0% param B>1: 0.155507746 (attained; crossings=1)
+[root] Front + Rear (x=0, 1) Nt=50 0.1% singular B>1: 0.021542148 (attained; crossings=1)
+[root] Front + Rear (x=0, 1) Nt=50 0.5% singular B>1: 0.113166610 (attained; crossings=1)
+[root] Front + Rear (x=0, 1) Nt=50 1.0% singular B>1: 0.244584820 (attained; crossings=1)
+[scan] Multi-location (5 stations) Nt=50 B<1: 22 points
+[root] Multi-location (5 stations) Nt=50 0.1% param B<1: 0.012573475 (attained; crossings=1)
+[root] Multi-location (5 stations) Nt=50 0.5% param B<1: 0.061508602 (attained; crossings=1)
+[root] Multi-location (5 stations) Nt=50 1.0% param B<1: 0.119945305 (attained; crossings=1)
+[root] Multi-location (5 stations) Nt=50 0.1% singular B<1: 0.017645255 (attained; crossings=1)
+[root] Multi-location (5 stations) Nt=50 0.5% singular B<1: 0.083890379 (attained; crossings=1)
+[root] Multi-location (5 stations) Nt=50 1.0% singular B<1: 0.158527698 (attained; crossings=1)
+[scan] Multi-location (5 stations) Nt=50 B>1: 22 points
+[root] Multi-location (5 stations) Nt=50 0.1% param B>1: 0.012720264 (attained; crossings=1)
+[root] Multi-location (5 stations) Nt=50 0.5% param B>1: 0.065203030 (attained; crossings=1)
+[root] Multi-location (5 stations) Nt=50 1.0% param B>1: 0.135040272 (attained; crossings=1)
+[root] Multi-location (5 stations) Nt=50 0.1% singular B>1: 0.018132702 (attained; crossings=1)
+[root] Multi-location (5 stations) Nt=50 0.5% singular B>1: 0.096223191 (attained; crossings=1)
+[root] Multi-location (5 stations) Nt=50 1.0% singular B>1: 0.209813740 (attained; crossings=1)
+[FD/mpdiff check] {'configuration': 'Rear-face only (x=1.0)', 'Nt': 50, 'B': 0.95, 'FD_dps': 50, 'FD_degree': 38, 'FD_h': 1e-08, 'SE_tau_q_per_sigma_n_analytic': 3.5560835990463726, 'SE_tau_q_per_sigma_n_FD': 3.556083599041855, 'sigma_min_analytic': 0.1995900552305437, 'sigma_min_FD': 0.19959005523080459, 'rel_diff_SE': 1.2704199454186607e-12, 'rel_diff_sigma_min': 1.3070523724739864e-12, 'rel_diff_J': np.float64(8.815367428542067e-14), 'analytic_vs_mpdiff_rel_J': np.float64(3.967697107227968e-18)}
+[FD/mpdiff check] {'configuration': 'Rear-face only (x=1.0)', 'Nt': 50, 'B': 1.05, 'FD_dps': 50, 'FD_degree': 38, 'FD_h': 1e-08, 'SE_tau_q_per_sigma_n_analytic': 3.833719922209443, 'SE_tau_q_per_sigma_n_FD': 3.833719922214814, 'sigma_min_analytic': 0.18377214409195713, 'sigma_min_FD': 0.18377214409170592, 'rel_diff_SE': 1.4010567026609895e-12, 'rel_diff_sigma_min': 1.3669956137169097e-12, 'rel_diff_J': np.float64(8.08307606900914e-14), 'analytic_vs_mpdiff_rel_J': np.float64(2.208257488929223e-17)}
+[FD/mpdiff check] {'configuration': 'Front + Rear (x=0, 1)', 'Nt': 50, 'B': 0.95, 'FD_dps': 50, 'FD_degree': 38, 'FD_h': 1e-08, 'SE_tau_q_per_sigma_n_analytic': 0.6001691041486777, 'SE_tau_q_per_sigma_n_FD': 0.6001691041276933, 'sigma_min_analytic': 1.2016756554165708, 'sigma_min_FD': 1.2016756554614914, 'rel_diff_SE': 3.4964206363985286e-11, 'rel_diff_sigma_min': 3.738156094972355e-11, 'rel_diff_J': np.float64(1.0294509913859796e-10), 'analytic_vs_mpdiff_rel_J': np.float64(7.721741804657014e-13)}
+[FD/mpdiff check] {'configuration': 'Front + Rear (x=0, 1)', 'Nt': 50, 'B': 1.05, 'FD_dps': 50, 'FD_degree': 38, 'FD_h': 1e-08, 'SE_tau_q_per_sigma_n_analytic': 0.6069497746269751, 'SE_tau_q_per_sigma_n_FD': 0.6069497746076855, 'sigma_min_analytic': 1.1434262598577392, 'sigma_min_FD': 1.1434262598911822, 'rel_diff_SE': 3.1781163364307944e-11, 'rel_diff_sigma_min': 2.9248082976806496e-11, 'rel_diff_J': np.float64(9.877118836823691e-11), 'analytic_vs_mpdiff_rel_J': np.float64(7.25912436124101e-13)}
+ALL DONE

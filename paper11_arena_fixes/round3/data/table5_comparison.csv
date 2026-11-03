@@ -1,0 +1,16 @@
+configuration,Nt,noise_percent,old_param,old_singular,old_method,new_method,param_left,param_left_status,param_right,param_right_status,singular_left,singular_left_status,singular_right,singular_right_status
+Rear-face only (x=1.0),10,0.1,0.246,0.348,local asymptotic estimate,direct full-FIM,0.2108629956668424,attained,0.24863068893531248,attained,0.29062404154070176,attained,0.3490123940297474,attained
+Rear-face only (x=1.0),10,0.5,1.228,1.739,local asymptotic estimate,direct full-FIM,0.5533417923569763,attained,,not attained in scan,0.7541391629372769,attained,,not attained in scan
+Rear-face only (x=1.0),10,1.0,2.455,3.478,local asymptotic estimate,direct full-FIM,0.6852886142240813,attained,,not attained in scan,,not attained in scan,,not attained in scan
+Rear-face only (x=1.0),50,0.1,0.092,0.13,local asymptotic estimate,direct full-FIM,0.08630608660586236,attained,0.09914717448395916,attained,0.11775922300450359,attained,0.14611532326555898,attained
+Rear-face only (x=1.0),50,0.5,0.459,0.648,local asymptotic estimate,direct full-FIM,0.3361796044514176,attained,0.6617759526148783,attained,0.4142198795556187,attained,,not attained in scan
+Rear-face only (x=1.0),50,1.0,0.917,1.296,local asymptotic estimate,direct full-FIM,0.5190143711281777,attained,,not attained in scan,0.5961968530259207,attained,,not attained in scan
+Rear-face only (x=1.0),100,0.1,0.065,0.091,local asymptotic estimate,direct full-FIM,0.06195930483061718,attained,0.06832988662644923,attained,0.08539410994958829,attained,0.09942038980029899,attained
+Rear-face only (x=1.0),100,0.5,0.323,0.456,local asymptotic estimate,direct full-FIM,0.2582417009492669,attained,0.419470876358611,attained,0.32829967378975744,attained,0.7094179488150154,attained
+Rear-face only (x=1.0),100,1.0,0.645,0.912,local asymptotic estimate,direct full-FIM,0.4229068678753888,attained,,not attained in scan,0.5037213384623058,attained,,not attained in scan
+"Front + Rear (x=0, 1)",50,0.1,0.015,0.021,local asymptotic estimate,direct full-FIM,0.015044296129522072,attained,0.01509511341528702,attained,0.02108978579560883,attained,0.02154214790415887,attained
+"Front + Rear (x=0, 1)",50,0.5,0.075,0.106,local asymptotic estimate,direct full-FIM,0.07493740459863374,attained,0.07623718226663434,attained,0.10169471733875413,attained,0.1131666095888606,attained
+"Front + Rear (x=0, 1)",50,1.0,0.151,0.212,local asymptotic estimate,direct full-FIM,0.14992834349326933,attained,0.15550774604287976,attained,0.19650819465725966,attained,0.2445848196086402,attained
+Multi-location (5 stations),50,0.1,0.013,0.018,local asymptotic estimate,direct full-FIM,0.012573474953741837,attained,0.0127202643283153,attained,0.017645255345834387,attained,0.018132702308754745,attained
+Multi-location (5 stations),50,0.5,0.063,0.089,local asymptotic estimate,direct full-FIM,0.061508602074454966,attained,0.0652030298759958,attained,0.08389037925211873,attained,0.09622319052219841,attained
+Multi-location (5 stations),50,1.0,0.126,0.178,local asymptotic estimate,direct full-FIM,0.11994530463612452,attained,0.13504027176229583,attained,0.1585276978722372,attained,0.20981373968102157,attained
